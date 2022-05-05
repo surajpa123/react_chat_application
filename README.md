@@ -3,9 +3,8 @@
 <table>
   
 Features:
-Instant messaging option.
-Fast and convenient database.</h4>
-  
+  <tr>Instant messaging option.</tr>
+  <tr>Fast and convenient database.</tr>
   </table>
 
 <h4>Deployed Link - https://reactchatapp-livid.vercel.app/ </h4>
